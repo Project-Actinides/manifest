@@ -30,7 +30,7 @@
            sync-j="4" />
 
   <!-- Art -->
-  <project path="art" name="android_art" groups="pdk" remote="rising" />
+  <project path="art" name="android_art" groups="pdk" remote="actinium" />
 
   <!-- Bionic -->
   <project path="bionic" name="android_bionic" groups="pdk" remote="actinium" />
