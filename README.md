@@ -35,7 +35,7 @@ Buiilding Flags
 Add the following variables:
 
 #Lunch banner maintainer variable
-ACTINIUM_MAINTAINER="Accrese"
+ACTINIUM_MAINTAINER="Shiru"
 
 # Chipset/Maintainer properties (ro.actinium.chipset/ro.actinium.maintainer)
 # Set ACTINIUM_MAINTAINER for version control
