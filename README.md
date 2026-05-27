@@ -44,7 +44,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
   ActiniumChipset="Google Tensor 2" \
   ActiniumMaintainer="Accrese"
 
-ACTINIUM_MAINTAINER := Accrese
+ACTINIUM_MAINTAINER := Shiru
 
 # Disable/enable blur support, false by default
 TARGET_ENABLE_BLUR := true/false
